@@ -1,0 +1,11 @@
+p{
+    color: red;
+    text-align: justify;
+}  
+body{
+    background-color: aqua;
+} 
+h1{
+ border: 5px solid red;
+ text-align: center;
+}
